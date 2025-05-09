@@ -40,8 +40,4 @@ https://viacep.com.br/
 
 https://dummyjson.com/
 
-https://swapi.dev/
-
-https://pipedream.com/apps/swapi
-
 https://axios-http.com/docs/intro

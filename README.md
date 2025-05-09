@@ -8,10 +8,10 @@ Usando `HTML`, `CSS` e `JS`:
 A partir dos exemplos apresentados, crie uma única página Web de `CRUD` (`Create`, `Read`, `Update`, `Delete`) que permita o usuário postar, ler, atualizar, modificar, remover e filtrar postagens.
 
 2)
-Usando a `API` do `ViaCep` (`https://viacep.com.br/`), crie uma página Web que permita o usuário realizar consultas por CEP.
+Usando a `API` do `ViaCep` (https://viacep.com.br/`), crie uma página Web que permita o usuário realizar consultas por CEP.
 
 3)
-Usando a `API` `DummyJSON` (`https://dummyjson.com/`), crie uma página Web que permita o usuário realizar consultas.
+Usando a `API` `DummyJSON` (`https://dummyjson.com/), crie uma página Web que permita o usuário realizar consultas.
 
 4)
 Usando "The Star Wars API" (`SWAPI`) (`https://swapi.dev/`), crie uma página Web que permita o usuário realizar consultas.

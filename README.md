@@ -26,7 +26,7 @@ Exemplo de arquivo JSON com dados sobre cidades:
 ```json
 {
   "cidades": [
-    {"id": 1, "imagem": "img/bh.png", "cidade": "Belo Horizonte", "estado": "MG", "população": 3800000},
+    {"id": 1, "imagem": "img/mg.png", "cidade": "Belo Horizonte", "estado": "MG", "população": 3800000},
     {"id": 2, "imagem": "img/sp.png", "cidade": "São Paulo", "estado": "SP", "população": 11800000},
     {"id": 3, "imagem": "img/rj.png", "cidade": "Rio de Janeiro", "estado": "RJ", "população": 5300000},
     {"id": 4, "imagem": "img/pr.png", "cidade": "Curitiba", "estado": "PR", "população": 1200000},

@@ -25,8 +25,7 @@ Exemplo de arquivo JSON com dados sobre cidades:
 }
 ```
 
-5) Escreva sobre o cliente HTTP `Axios`:
-https://axios-http.com/docs/intro
+5) Escreva sobre o cliente HTTP `Axios` (https://axios-http.com/docs/intro).
 
 
 # Links:

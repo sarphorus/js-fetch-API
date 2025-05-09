@@ -4,23 +4,18 @@
 
 Usando `HTML`, `CSS` e `JS`:
 
-1)
-A partir dos exemplos apresentados, crie uma única página Web de `CRUD` (`Create`, `Read`, `Update`, `Delete`) que permita o usuário postar, ler, atualizar, modificar, remover e filtrar postagens.
+1) A partir dos exemplos apresentados, crie uma única página Web de `CRUD` (`Create`, `Read`, `Update`, `Delete`) que permita o usuário postar, ler, atualizar, modificar, remover e filtrar postagens.
 
-2)
-Usando a `API` do `ViaCep` (https://viacep.com.br/`), crie uma página Web que permita o usuário realizar consultas por CEP.
+2) Usando a `API` do `ViaCep` (https://viacep.com.br/), crie uma página Web que permita o usuário realizar consultas por CEP.
 
-3)
-Usando a `API` `DummyJSON` (`https://dummyjson.com/), crie uma página Web que permita o usuário realizar consultas.
+3) Usando a `API` `DummyJSON` (https://dummyjson.com/), crie uma página Web que permita o usuário realizar consultas.
 
-4)
-Usando "The Star Wars API" (`SWAPI`) (`https://swapi.dev/`), crie uma página Web que permita o usuário realizar consultas.
+4) Usando "The Star Wars API" (`SWAPI`) (https://swapi.dev/), crie uma página Web que permita o usuário realizar consultas.
 
-5)
-Escreva sobre o cliente HTTP `Axios`:
-`https://axios-http.com/docs/intro`
+5) Escreva sobre o cliente HTTP `Axios`:
+https://axios-http.com/docs/intro
 
-6) Usando a `API` `Fetch`, crie uma única página Web de `CRUD` (`Create`, `Read`, `Update`, `Delete`) que permita o usuário postar, ler, atualizar, modificar, remover e filtrar dados sobre cidades através do `JSONServer` no `Replit`.
+6) Usando a `API` `Fetch`, crie uma única página Web de `CRUD` (`Create`, `Read`, `Update`, `Delete`) que permita o usuário postar, ler, atualizar, modificar, remover e filtrar dados sobre cidades através do `JSONServer` (https://www.npmjs.com/package/json-server) no `Replit` (https://replit.com/).
 Exemplo de arquivo JSON com dados sobre cidades:
 
 ```json

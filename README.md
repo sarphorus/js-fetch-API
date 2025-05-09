@@ -10,12 +10,10 @@ Usando `HTML`, `CSS` e `JS`:
 
 3) Usando a `API` `DummyJSON` (https://dummyjson.com/), crie uma página Web que permita o usuário realizar consultas.
 
-4) Usando "The Star Wars API" (`SWAPI`) (https://swapi.dev/), crie uma página Web que permita o usuário realizar consultas.
-
-5) Escreva sobre o cliente HTTP `Axios`:
+4) Escreva sobre o cliente HTTP `Axios`:
 https://axios-http.com/docs/intro
 
-6) Usando a `API` `Fetch`, crie uma única página Web de `CRUD` (`Create`, `Read`, `Update`, `Delete`) que permita o usuário postar, ler, atualizar, modificar, remover e filtrar dados sobre cidades através do `JSONServer` (https://www.npmjs.com/package/json-server) no `Replit` (https://replit.com/).
+5) Usando a `API` `Fetch`, crie uma única página Web de `CRUD` (`Create`, `Read`, `Update`, `Delete`) que permita o usuário postar, ler, atualizar, modificar, remover e filtrar dados sobre cidades através do `JSONServer` (https://www.npmjs.com/package/json-server) no `Replit` (https://replit.com/).
 Exemplo de arquivo JSON com dados sobre cidades:
 
 ```json

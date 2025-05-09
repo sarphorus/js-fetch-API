@@ -27,7 +27,7 @@ Exemplo de arquivo JSON com dados sobre cidades:
 }
 ```
 
-6) Escreva sobre o cliente HTTP `Axios` (https://axios-http.com/docs/intro).
+6) Escreva sobre o cliente HTTP `Axios` (https://axios-http.com/docs/intro). Implemente uma página Web de `CRUD` (`Create`, `Read`, `Update`, `Delete`) que permita o usuário postar, ler, atualizar, modificar e remover dados usando o cliente HTTP `Axios`.
 
 
 # Links:

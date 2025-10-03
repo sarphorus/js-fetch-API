@@ -65,7 +65,7 @@
       }
 
       async function removerPostagem(id) {
-        fetch(`https://jsonplaceholder.typicode.com/posts/${id}`, {
+        await fetch(`https://jsonplaceholder.typicode.com/posts/${id}`, {
           method: "DELETE",
         })
           .then((response) => response.json())

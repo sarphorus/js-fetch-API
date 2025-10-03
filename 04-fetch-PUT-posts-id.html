@@ -55,8 +55,8 @@
         return mensagem;
       }
 
-      async function atualizarPostagens() {
-        await fetch("https://jsonplaceholder.typicode.com/posts/1", {
+      async function atualizarPostagens(id) {
+        await fetch(`https://jsonplaceholder.typicode.com/posts/${id}`, {
           method: "PUT",
           headers: {
             "Content-type": "application/json; charset=UTF-8",
@@ -81,7 +81,7 @@
     <main>
       <h1>Postagens</h1>
 
-      <button onclick="atualizarPostagens()">Atualizar</button>
+      <button onclick="atualizarPostagens(1)">Atualizar</button>
 
       <div id="resp">
         <p class="campo">Resposta:</p>

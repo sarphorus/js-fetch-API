@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    async function getPostagens() {
+      const replit = 'https:3577ed85-a7d8-4c0d-8846-6a0cd605e7de-00-2tugo9eii18u1.worf.replit.dev/'
+      const url = replit + 'contatos';
+      await fetch(url)
+        .then((response) => response.json())
+        .then((json) => {
+          console.log(json);
+          respjson.innerHTML = imprime(json);
+        });
+    }
+    </script>
+</body>
+</html>
